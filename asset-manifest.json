@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hastytoro/robofriends.git/static/css/main.d2b32822.chunk.css",
+    "main.js": "/hastytoro/robofriends.git/static/js/main.af74d792.chunk.js",
+    "main.js.map": "/hastytoro/robofriends.git/static/js/main.af74d792.chunk.js.map",
+    "runtime-main.js": "/hastytoro/robofriends.git/static/js/runtime-main.7384e1ef.js",
+    "runtime-main.js.map": "/hastytoro/robofriends.git/static/js/runtime-main.7384e1ef.js.map",
+    "static/css/2.31461e4f.chunk.css": "/hastytoro/robofriends.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.137eb602.chunk.js": "/hastytoro/robofriends.git/static/js/2.137eb602.chunk.js",
+    "static/js/2.137eb602.chunk.js.map": "/hastytoro/robofriends.git/static/js/2.137eb602.chunk.js.map",
+    "static/js/3.dc1bae7b.chunk.js": "/hastytoro/robofriends.git/static/js/3.dc1bae7b.chunk.js",
+    "static/js/3.dc1bae7b.chunk.js.map": "/hastytoro/robofriends.git/static/js/3.dc1bae7b.chunk.js.map",
+    "index.html": "/hastytoro/robofriends.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/hastytoro/robofriends.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.d2b32822.chunk.css.map": "/hastytoro/robofriends.git/static/css/main.d2b32822.chunk.css.map",
+    "static/js/2.137eb602.chunk.js.LICENSE.txt": "/hastytoro/robofriends.git/static/js/2.137eb602.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7384e1ef.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.137eb602.chunk.js",
+    "static/css/main.d2b32822.chunk.css",
+    "static/js/main.af74d792.chunk.js"
+  ]
+}
